@@ -70,7 +70,6 @@ data/    — Datos estáticos (fallback, seed, mock)
 | **Testing** | Jest + Playwright |
 | **Logging** | JSON estructurado |
 | **Validación** | Zod |
-| **CI/CD** | GitHub Actions |
 | **Versionado** | SemVer + Git Flow |
 | **Commits** | Conventional Commits |
 

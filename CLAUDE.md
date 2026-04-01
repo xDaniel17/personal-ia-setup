@@ -407,15 +407,6 @@ src/features/users/
 - En `catch` blocks: incluir siempre stack trace en logs de error
 - Usar `console.log/error` pero con formato JSON — no `console.error` sin estructura
 
-### CI/CD
-- **GitHub Actions** para automatización
-- Workflows esperados:
-  - Tests en cada PR
-  - Lint en cada PR
-  - Build en cada PR
-  - Deploy automático en merge a `main`/`develop`
-- Archivos: `.github/workflows/*.yml`
-
 ---
 
 ## 🎯 Patrones de diseño
